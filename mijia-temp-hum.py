@@ -1,7 +1,7 @@
 import urllib.request
 import base64
 import time
-from mijia.mijia_poller import MijiaPoller, \
+from mijia.mijia_bt_poller import MijiaPoller, \
     MI_HUMIDITY, MI_TEMPERATURE, MI_BATTERY
 
 # Settings for the domoticz server
