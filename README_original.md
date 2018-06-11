@@ -1,3 +1,6 @@
+
+original: https://github.com/pFenners/mijia-sensor-domoticz/blob/master/README.md
+
 # mijia-sensor-domoticz
 
 Adapted version of miflora (https://github.com/Tristan79/miflora) for the Xiaomi Mijia Bluetooth Temperature Humidity Sensor (MJ_HT_V1).
